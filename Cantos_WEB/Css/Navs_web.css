@@ -1,11 +1,7 @@
 
   body {
   font-family: Arial, sans-serif;
-  background-image: url('Cantos_WEB/Images/tricbg.JPG'); /* Path to your background image */
-  background-repeat: no-repeat; /* Prevent repeating the image */
-  background-size: cover; /* Make the image cover the entire viewport */
-  background-position: center; /* Center the image */ 
-}
+ 
 
 header {
   background-color: #4CAF50;
@@ -22,7 +18,10 @@ img {
 
 html {
  background-color: #f9f9f9;
-
+ background-image: url('Cantos_WEB/Images/tricbg.JPG'); 
+  background-repeat: no-repeat; 
+  background-size: cover; 
+  background-position: center; 
 }
 
 p, li, h1 {
