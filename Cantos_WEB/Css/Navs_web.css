@@ -1,17 +1,10 @@
 
   body {
-  max-width: 50%;
-  margin: 200px auto 0; 
-  background-color: #0df39a;
-  padding: 20px;
-  border: 5px solid #ddd;
   font-family: Arial, sans-serif;
   background-image: url('Cantos_WEB/Images/tricbg.JPG'); /* Path to your background image */
   background-repeat: no-repeat; /* Prevent repeating the image */
   background-size: cover; /* Make the image cover the entire viewport */
-  background-position: center; /* Center the image */
- 
- 
+  background-position: center; /* Center the image */ 
 }
 
 header {
@@ -39,6 +32,11 @@ nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  max-width: 50%;
+  margin: 200px auto 0; 
+  background-color: #0df39a;
+  padding: 20px;
+  border: 5px solid #ddd;
 }
 
 nav ul {
